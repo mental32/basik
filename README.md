@@ -33,9 +33,9 @@ The stars demo is used to demonstrate:
 140 END
 ```
 
-`user@host>basik stars.bas`
+Save the code as `stars.bas` and then run it with:
 
-
+ - `$basik stars.bas`
 
 
 ## Installing
